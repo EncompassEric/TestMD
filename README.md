@@ -1,5 +1,5 @@
 # 按钮样式
-![](dsdlink-share%20.png)
+![](http://i4.tietuku.com/6c1bc805f142b9f6.jpg)
 
 	.ButtonBlue {
 	  background: url(../../images/ButtonBgAttention.png) repeat-x;
